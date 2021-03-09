@@ -4276,6 +4276,16 @@ input, select, textarea {
 			font-size: 0.8rem;
 		}
 
+		#status {
+			width: 90%;
+			max-width: 500px;
+			text-align: center;
+			padding: 10px;
+			margin: 0 auto;
+			border-radius: 8px;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#footer {
