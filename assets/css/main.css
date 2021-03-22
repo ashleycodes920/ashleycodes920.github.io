@@ -3955,13 +3955,15 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: #717981;
+/* 		color: #717981; */
+		color: #eeeeee;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
 		background-color: #1d1d1d;
-		color: #909498;
+/* 		color: #909498; */
+		color: #eeeeee;
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
@@ -3989,7 +3991,8 @@ input, select, textarea {
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+/* 			color: #717981; */
+			color: #eeeeee;
 		}
 
 		#footer blockquote {
@@ -4009,45 +4012,48 @@ input, select, textarea {
 			border-color: #e2e2e2;
 		}
 
-		/* #footer input[type="submit"],
+		#footer input[type="submit"],
 		#footer input[type="reset"],
 		#footer input[type="button"],
 		#footer button,
 		#footer .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #717981;
-			color: #717981 !important; */
+/* 			box-shadow: inset 0 0 0 2px #717981; */
+			box-shadow: inset 0 0 0 2px #eeeeee;
+/* 			color: #717981 !important; */
+			color: #eeeeee !important;
 		}
 
-			/* #footer input[type="submit"]:hover,
+			#footer input[type="submit"]:hover,
 			#footer input[type="reset"]:hover,
 			#footer input[type="button"]:hover,
 			#footer button:hover,
 			#footer .button:hover {
 				box-shadow: inset 0 0 0 2px #18bfef;
-				color: #18bfef !important; */
+				color: #18bfef !important;
 			}
 
-			/* #footer input[type="submit"].primary,
+			#footer input[type="submit"].primary,
 			#footer input[type="reset"].primary,
 			#footer input[type="button"].primary,
 			#footer button.primary,
 			#footer .button.primary {
 				background-color: #717981;
 				box-shadow: none;
-				color: #f5f5f5 !important; */
+				color: #f5f5f5 !important;
 			}
 
-				/* #footer input[type="submit"].primary:hover,
+				#footer input[type="submit"].primary:hover,
 				#footer input[type="reset"].primary:hover,
 				#footer input[type="button"].primary:hover,
 				#footer button.primary:hover,
 				#footer .button.primary:hover {
 					background-color: #18bfef;
-				} */
+				}
 
 		#footer label {
-			color: #717981;
+/* 			color: #717981; */
+			color: #eeeeee;
 		}
 
 		#footer input[type="text"],
